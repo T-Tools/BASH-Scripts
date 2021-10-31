@@ -97,7 +97,7 @@ bash banner.sh
 basic_scan
 }
 if [[ $1 == "" ]];then
-echo -e "\e[1;33mPlease Run The Script As bash basic-info.sh https://target.xom \e[0m"
+echo -e "\e[1;33mPlease Run The Script As bash basic-info.sh https://target.com \e[0m"
 exit
 else
 main $1
