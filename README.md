@@ -7,3 +7,4 @@ All Scripts Are Coded By S0|0 3xpl0it3r<br><br><br>
 <a href="https://github.com/T-Tools/BASH-Scripts/blob/main/cms.sh">CMS Detector</a> : 🛠️CMS Detector Script🛠️<br>Available For WordPress, Joomla, Magento, Drupal<br><br>
 <a href="https://github.com/T-Tools/BASH-Scripts/blob/main/wp-brute.sh">WP BruteForce</a> : 🗝️WordPress BruteForce Script🗝️<br>To BruteForce WordPress Login<br><br>
 <a href="https://github.com/T-Tools/BASH-Scripts/blob/main/basic-info.sh">Web Info Script</a> : ⚙️Web InFo Script⚙️<br>Basic Information Gathering<br><br>
+<a href="https://github.com/T-Tools/BASH-Scripts/blob/main/port-scan.sh">Port Scanner</a> : 🔭Port Scanner🔭<br>To Scan Ports On A Host<br><br>
